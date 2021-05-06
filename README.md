@@ -6,6 +6,6 @@ This repo shows a few IPython notebooks I've created to experiment with librarie
 
 Using a multilayer perceptron model to learn a function distribution
 
-[ATP tennis matches](https://github.com/solajozsef/ipython-notebooks/blob/main/AtpWimbledonPandas.ipynb)
+[ATP tennis matches](https://nbviewer.jupyter.org/github/solajozsef/ipython-notebooks/blob/main/AtpWimbledonPandas.ipynb)
 
 Analysis of Wimbledon ATP tennis matches with python pandas
