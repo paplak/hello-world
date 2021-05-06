@@ -2,7 +2,7 @@
 This repo shows a few IPython notebooks I've created to experiment with libraries and explore subjects I find interesting.
 
 
-[Function approximation](https://github.com/solajozsef/ipython-notebooks/blob/main/FunnyFunctionApproxNN.ipynb) 
+[Function approximation](https://nbviewer.jupyter.org/github/solajozsef/ipython-notebooks/blob/main/FunnyFunctionApproxNN.ipynb) 
 
 Using a multilayer perceptron model to learn a function distribution
 
